@@ -1,0 +1,3 @@
+*.xlsx
+*.csv
+node_modules/
